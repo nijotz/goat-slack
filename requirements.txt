@@ -1,0 +1,2 @@
+requests==2.5.0
+Flask-Slack==0.1.2
